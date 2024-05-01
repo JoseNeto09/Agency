@@ -9,7 +9,7 @@ const serviceData = [
         desc: 'Lorem ipsum dolor  consequatur? Illo sequi, deserunt sapiente exercitationem nesciunt et ex maiores asperiores '
         
     },
-    {
+    {   
         icon: 'ri-code-s-slash-line',
         title: 'Web Desing',
         desc: 'Lorem ipsum dolor consequatur? Illo sequi, deserunt sapiente exercitationem nesciunt et ex maiores asperiores '
@@ -57,5 +57,4 @@ const Services = () => {
         </div>
     </section>
 )}
-
 export default Services

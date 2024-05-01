@@ -12,7 +12,7 @@
 }
 
 .counter__number, .counter__title{
-    background: linear-gradient(90deg, rgba(2,187,166,1) 30%, rgba(29,129,176,1) 55%, rgba(35,93,173,1) 75%);
+    background: var(--counter-color);
     background-size: 100% 100%;
     background-clip: text;
     -webkit-text-fill-color: transparent;
