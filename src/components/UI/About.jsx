@@ -2,7 +2,6 @@ import React from 'react'
 import '../../styles/about.css'
 import aboutImg from '../../images/about-us.jpg'
 
-
 const chooseData = [
   {
     icon: 'ri-wifi-line',
@@ -20,8 +19,6 @@ const chooseData = [
     desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit Quaerat, voluptas?'
   },
 ]
-
-
 
 const About = () => {
   return( <section id="about">
